@@ -1,0 +1,27 @@
+/*form*/
+.form {
+  background: linear-gradient(90deg, rgb(0, 101, 219)40%, rgb(0, 212, 255, 1)100%);
+}
+
+.form a {
+  margin-bottom: 10px;
+}
+
+table {
+  border-collapse: collapse;
+}
+td {
+  padding: 8px 0;
+  border: 1px solid black;
+}
+
+.highlight {
+  background-color: #387996;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
